@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OpenGLTest.dir/main.cpp.o -o OpenGLTest  /usr/lib/aarch64-linux-gnu/libGL.so /usr/lib/aarch64-linux-gnu/libGLU.so /usr/lib/aarch64-linux-gnu/libGLEW.so /usr/lib/aarch64-linux-gnu/libglfw.so.3.3 
