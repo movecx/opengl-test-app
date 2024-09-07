@@ -32,6 +32,7 @@ It includes the requisite libraries for Windows for ease of use.
    ```bash
    git clone https://github.com/movecx/opengl-test-app.git
    cd opengl-test-app
+   cd OpenGL-linux
    ```
 
 3. **Build the application**:
@@ -63,6 +64,7 @@ It includes the requisite libraries for Windows for ease of use.
    ```bash
    git clone https://github.com/movecx/opengl-test-app.git
    cd opengl-test-app
+   cd OpenGL-windows
    ```
 
 3. **Open the project in Visual Studio Code**:
